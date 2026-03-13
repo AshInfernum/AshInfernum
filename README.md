@@ -4,10 +4,6 @@
 I'm a Multidisciplinary Developer exploring the world of software, games, mods, AI, and cybersecurity.  
 I love building, learning, and experimenting with new technologies to turn ideas into working projects. 🚀
 
-<div align="center">
-  <img src="https://i.imgur.com/M6putEw.jpeg" width="300"/>
-</div>
-
 
 
 ---
